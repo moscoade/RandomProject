@@ -3,7 +3,7 @@ using RandomProject.Hooks;
 using RandomProject.PageObject;
 using TechTalk.SpecFlow;
 
-namespace CatalogueProject.StepDefinitions
+namespace RandomProject.StepDefinitions
 {
     [Binding]
     public class SearchStepDefinitions
